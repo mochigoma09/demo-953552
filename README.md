@@ -1,2 +1,3 @@
 # demo-953552
-Auto generated demo site for 南池袋どうぶつ病院
+
+AIによって自動生成された 南池袋どうぶつ病院 様向けのデモサイトです。
